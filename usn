@@ -1,0 +1,4 @@
+name="Gourikori"
+USN="312"
+print("my name is",name)
+print("USN is",USN)
